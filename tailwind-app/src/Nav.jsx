@@ -1,3 +1,5 @@
+/** El map en el nav lo que esta haciendo es recibiendo las rutas de navigation y las sustituye por cada uno de los elementos del objeto */
+
 import reactLogo from './assets/react.svg';
 var navigation = [{'title':"Home",'href':"/",'ComponentName':true},
     {'title':"About",'href':"/About",'ComponentName':false},
